@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&fontAlign=80&fontAlignY=35&text=hectick%20!&desc=This%20is%20me,%20Chaeyeon%20Sung&descAlign=77&descAlignY=50)
 
-### 👋
-### hectick = hectic(정신없이 바쁜) + tick(째깍째깍 소리) = 바쁘게 살고 싶은 나의 소망
-
 
 
 
