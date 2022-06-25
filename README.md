@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EDE574,100:E1F5C4&height=200&fontAlign=80&fontAlignY=35&text=hectick%20!&desc=This%20is%20me,%20Chaeyeon%20Sung&descAlign=77&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EDE574,100:E1F5C4&text=282829&height=200&fontAlign=80&fontAlignY=35&text=hectick%20!&desc=This%20is%20me,%20Chaeyeon%20Sung&descAlign=77&descAlignY=50)
 
 <h3 align="center"><b>🛠 Now I'm Studying... JAVA, JSP, Github</b></h3>
 
