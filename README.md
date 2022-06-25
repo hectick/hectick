@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:4e54c8,100:8f94fb&fontColor=ffffff&height=200&fontAlign=80&fontAlignY=35&text=hectick%20!&desc=This%20is%20me,%20Chaeyeon%20Sung&descAlign=77&descAlignY=50)
 
-<h3 align="center"><b>🛠 Now I'm Studying... JAVA, JSP, Github</b></h3>
+<h3 align="center"><b> Now I'm Studying... 🛠 JAVA, JSP, Github 🛠</b></h3>
 
 <!--
 **hectick/hectick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
