@@ -4,8 +4,6 @@
 ### hectick = hectic(정신없이 바쁜) + tick(째깍째깍 소리) = 바쁘게 살고 싶은 나의 소망
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
-
 
 
 <!--
