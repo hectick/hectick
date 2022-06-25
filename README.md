@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'my Chaeyeon Sung 👋
+### hectick = hectic(정신없이 바쁜) + tick(째깍째깍 소리) = 바쁘게 살고 싶은 나의 소망
 <!--
 **hectick/hectick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
