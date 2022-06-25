@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&fontAlign=80&fontAlignY=40&text=hectick%20!&desc=This%20is%20me,%20Chaeyeon%20Sung&descAlign=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&fontAlign=80&fontAlignY=40&text=hectick%20!&desc=This%20is%20me,%20Chaeyeon%20Sung&descAlign=120)
 
 
 
