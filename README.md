@@ -5,8 +5,11 @@
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectick&layout=compact&theme=vue)    
-![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectick&show_icons=true&theme=vue)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectick&show_icons=true&theme=vue)
+<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hectick)](https://solved.ac/hectick)
+<br>
+blog : https://finger-ineedyourhelp.tistory.com/18?category=914155
 </div>
 
 
