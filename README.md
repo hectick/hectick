@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:fceabb,100:f8b500&fontColor=ffffff&height=200&fontAlign=80&fontAlignY=35&text=hectick%20!&desc=This%20is%20me,%20Chaeyeon%20Sung&descAlign=77&descAlignY=50)
-
+blog : https://finger-ineedyourhelp.tistory.com/  
 <h3 align="center"><b> Now I'm Studying... 🛠 JAVA, Git, Github 🛠</b></h3>
 <br>
 <div align="center">
@@ -9,7 +9,7 @@
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hectick)](https://solved.ac/hectick)
 <br>
-blog : https://finger-ineedyourhelp.tistory.com/18?category=914155
+
 </div>
 
 
