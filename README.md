@@ -3,7 +3,7 @@
 <h3 align="center"><b> Now I'm Studying... 🛠 JAVA, JSP, Github 🛠</b></h3>
 
 <div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectick&layout=compact&theme=vue) </div>  
-<div align="center"> ![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectick&show_icons=true&theme=vue) </div>  
+<div align="center"> [![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectick&show_icons=true&theme=vue)] </div>  
 
 
 <!--
