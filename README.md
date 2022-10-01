@@ -2,6 +2,10 @@
 
 <h3 align="center"><b> Now I'm Studying... 🛠 JAVA, JSP, Github 🛠</b></h3>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectick&layout=compact&theme=vue)
+
+
 <!--
 **hectick/hectick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
