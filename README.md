@@ -2,7 +2,7 @@
 
 <h3 align="center"><b> Now I'm Studying... 🛠 JAVA, JSP, Github 🛠</b></h3>
 
-
+![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectick&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectick&layout=compact&theme=vue)
 
 
