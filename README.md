@@ -8,7 +8,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <br>
   
 </div>
